@@ -1,0 +1,4 @@
+# Avoid your project being littered with annoying .DS_Store files!
+design
+docs
+node_modules
